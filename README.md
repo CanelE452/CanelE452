@@ -16,8 +16,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canele452&exclude_repo=canele452.github.io&layout=compact" />
 </a>
 
-## 🧛‍♂️ Solved.ac Stats
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=canele452)](https://solved.ac/canele452)-->
+<!--## 🧛‍♂️ Solved.ac Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=canele452)](https://solved.ac/canele452)-->
 ## 👨‍💻Languages and Tools
 <div style="text-align: center">
   
