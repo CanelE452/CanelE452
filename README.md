@@ -17,7 +17,7 @@
 </a>
 
 ## 🧛‍♂️ Solved.ac Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=canele452)](https://solved.ac/canele452)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=canele452)](https://solved.ac/canele452)-->
 ## 👨‍💻Languages and Tools
 <div style="text-align: center">
   
